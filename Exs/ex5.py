@@ -5,4 +5,3 @@ seguido por "HH : MM : SS" para a hora de início; e repetindo o mesmo formato p
 A saída deve exibir a duração em dias, horas, minutos e segundos, respectivamente, conforme o padrão 
 "W dia(s)", "X hora(s)", "Y minuto(s)", "Z segundo(s)"
 '''
-
